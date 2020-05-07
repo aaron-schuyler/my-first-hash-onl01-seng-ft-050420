@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {"John Lennon": "Lead Guitar", "Paul McCartney": "Bass", 
+  your_hash = {"John Lennon": "Frontman", "Paul McCartney": "Bassist", "George Harrison": "Lead Guitarist": "Ringo Starr"
 
   
 end
