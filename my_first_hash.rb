@@ -1,10 +1,10 @@
 def my_hash
-  the_beatles = {"John Lennon": "Frontman", "Paul McCartney": "Bassist", "George Harrison": "Lead Guitarist", "Ringo Starr": "Drummer"}
+  the_beatles = {"John Lennon" => "Frontman", "Paul McCartney" => "Bassist", "George Harrison" => "Lead Guitarist", "Ringo Starr" => "Drummer"}
 end
 
 
 def shipping_manifest
-  the_manifest = { "whale bone corsets": 5, "porcelain vases": 2, "oil paintings": 3}
+  the_manifest = { "whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
 end
 
 def retrieval
